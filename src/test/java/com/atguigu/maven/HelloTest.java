@@ -9,6 +9,7 @@ public class HelloTest {
 		Hello hello = new Hello();
 		String maven=hello.sayHello("Maven");
 		System.out.println(maven);
+		System.out.println("更新1");
 	}
 	
 }
