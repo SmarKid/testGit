@@ -10,6 +10,7 @@ public class HelloTest {
 		String maven=hello.sayHello("Maven");
 		System.out.println(maven);
 		System.out.println("更新1");
+		System.out.println("更新2");
 	}
 	
 }
